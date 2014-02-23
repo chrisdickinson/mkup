@@ -1,0 +1,27 @@
+{
+  "name": "mkup",
+  "version": "0.0.0",
+  "description": "transparently insert metadata chars into a string at offsets without affecting the overall offset",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisdickinson/mkup.git"
+  },
+  "keywords": [
+    "markup",
+    "string",
+    "insert"
+  ],
+  "author": "Chris Dickinson <chris@neversaw.us> (http://neversaw.us/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisdickinson/mkup/issues"
+  },
+  "homepage": "https://github.com/chrisdickinson/mkup",
+  "devDependencies": {
+    "tape": "~2.5.0"
+  }
+}
